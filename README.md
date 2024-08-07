@@ -17,7 +17,7 @@ for all types of vehicles.
 ● To apply multiple algorithms to control the congestion of high traffic in a lane.
 
 ● To predict the number of vehicles that are going to arrive in each lane for better
-traffic optimization
+traffic optimization.
 
 Please refer [report](https://github.com/anandsagar00/V2I-Simulator/blob/main/Project%20Report.pdf) of this project for better clarity and understanding.
 
